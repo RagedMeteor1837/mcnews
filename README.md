@@ -1,1 +1,1 @@
-/Minecraft News Website Replacement
+Minecraft News Website Replacement
