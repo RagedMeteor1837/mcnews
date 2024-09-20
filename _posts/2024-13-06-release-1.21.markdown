@@ -9,7 +9,7 @@ This one is extra special because today we're shipping Minecraft: Java Edition 1
 
 **Changelog:**<br>
 \* Added a new underground structure called the Trial Chambers<br>
-\* Added the Breeze and Bogged mobs<br>        
+\* Added the Breeze and Bogged mobs<br>
 \* Added a new weapon, the Mace<br>
 \* Added 3 new enchantments exclusive to the Mace<br>
 \* Added 8 new blocks<br>
