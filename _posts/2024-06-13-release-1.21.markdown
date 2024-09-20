@@ -43,4 +43,4 @@ Report bugs here:<br>
 \* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
 
 Want to give feedback?<br>
-\* For any feedback and suggesstions, head over to the [Feedback Site](https://feedback.minecraft.net). If you're feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
+\* For any feedback and suggesstions, head over to the [Feedback Site](https://feedback.minecraft.net).
