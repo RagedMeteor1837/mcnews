@@ -37,7 +37,7 @@ This one is extra special because today we're shipping Minecraft: Java Edition 1
 **GET THE RELEASE:**<br>
 
 Cross-platform server jar:<br>
-\* [Minecraft server jar] (https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)<br>
 
 Report bugs here:<br>
 \* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
