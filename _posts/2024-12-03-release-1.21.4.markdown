@@ -3,9 +3,9 @@ layout: post
 title: Minecraft 1.21.4 - The Garden Awakens Drop
 ---
 
-Shh! I'm writing this changelog from behind a Pale Oak tree – and I have to be very quiet because the Garden Awakens drop is finally here – and Creakings are spawning in Pale Gardens all across the Overworld!<br>
+Shh! I'm writing this changelog from behind a Pale Oak tree â€“ and I have to be very quiet because the Garden Awakens drop is finally here â€“ and Creakings are spawning in Pale Gardens all across the Overworld!<br>
 The Garden Awakens update introduces the Pale Garden biome, featuring moss carpets, Pale Oak trees, and Eyeblossoms, along with the watchful Creaking mob and its secret to defeating (and spawning) it-the Creaking Heart. Defeating Creakings drops Resin Clumps, which can be crafted into Resin Bricks or used for armor trims.<br>
-Was that everything? Oh! And we've also made some bug fixes. Now, let me see if I can back away slowly without this Creaking spotting me…<br>
+Was that everything? Oh! And we've also made some bug fixes. Now, let me see if I can back away slowly without this Creaking spotting meâ€¦<br>
 
 **Changelog:**<br>
 \* Added Pale Garden Biome, Pale Oak tree, Pale Moss block, Pale Moss carpet, Pale Hanging Moss and Pale Oak woodset<br>
