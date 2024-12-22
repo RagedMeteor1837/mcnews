@@ -4,9 +4,6 @@ title: Minecraft 1.21.4 - The Garden Awakens Drop
 ---
 
 Shh! I'm writing this changelog from behind a Pale Oak tree – and I have to be very quiet because the Garden Awakens drop is finally here – and Creakings are spawning in Pale Gardens all across the Overworld!<br>
-The Garden Awakens update introduces the Pale Garden biome, featuring moss carpets, Pale Oak trees, and Eyeblossoms, along with the watchful Creaking mob and its secret to defeating (and spawning) it-the Creaking Heart.<br>
-Defeating Creakings drops Resin Clumps, which can be crafted into Resin Bricks or used for armor trims.<br>
-Was that everything? Oh! And we've also made some bug fixes. Now, let me see if I can back away slowly without this Creaking spotting me…<br>
 
 **Changelog:**<br>
 \* Added Pale Garden Biome, Pale Oak tree, Pale Moss block, Pale Moss carpet, Pale Hanging Moss and Pale Oak woodset<br>
@@ -21,22 +18,22 @@ Was that everything? Oh! And we've also made some bug fixes. Now, let me see if 
 \* Blocks that require support now always drop when broken with any tool<br>
 \* The Brewing Stand now drops when broken with any tool<br>
 \* The Ender Chest now drops Obsidian when broken with an incorrect tool, instead of dropping nothing<br>
-\* The criteria for replacing armor slot items have been updated to prioritize items with better base armor or toughness, more enchantments, less damage, or a custom name if the old one lacks one<br>
-\* The criteria for replacing main hand slot items have been updated to prioritize preferred weapons, items with higher base damage, more enchantments, less damage, or a custom name if the old one lacks one, while ensuring preferred weapons are not replaced by non-preferred items<br>
+\* The criteria for replacing armor slot items now prioritize items with better base armor or toughness, more enchantments, less damage, or a custom name if the old one lacks one<br>
+\* The criteria for replacing main hand slot items now prioritize preferred weapons, items with higher base damage, more enchantments, less damage, or a custom name if the old one lacks one<br>
 \* Skeleton-like mobs (excluding Wither Skeletons) now prefer Bows<br> 
 \* Adult Piglins and Pillagers prefer Crossbows<br>
 \* Drowned prefer Tridents when picking up weapons<br>
-\- Removed Herobrine<br>
+\- Removed Herobrine<br><br>
 
 **Fixed Bugs In 1.21.4:**<br>
-\* Around 206 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).<br>
+\* Around 206 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).<br><br>
 
 **GET THE RELEASE:**<br>
 Cross-platform server jar:<br>
 \* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)<br>
 
 Report bugs here:<br>
-\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br><br>
 
 Want to give feedback?<br>
 \* For any feedback and suggesstions, head over to the [Feedback Site](https://feedback.minecraft.net).
