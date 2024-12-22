@@ -23,17 +23,17 @@ Shh! I'm writing this changelog from behind a Pale Oak tree – and I have to be
 \* Skeleton-like mobs (excluding Wither Skeletons) now prefer Bows<br> 
 \* Adult Piglins and Pillagers prefer Crossbows<br>
 \* Drowned prefer Tridents when picking up weapons<br>
-\- Removed Herobrine<br><br>
+\- Removed Herobrine<br>
 
 **Fixed Bugs In 1.21.4:**<br>
-\* Around 206 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).<br><br>
+\* Around 206 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).<br>
 
 **GET THE RELEASE:**<br>
 Cross-platform server jar:<br>
 \* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)<br>
 
 Report bugs here:<br>
-\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br><br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
 
 Want to give feedback?<br>
 \* For any feedback and suggesstions, head over to the [Feedback Site](https://feedback.minecraft.net).
