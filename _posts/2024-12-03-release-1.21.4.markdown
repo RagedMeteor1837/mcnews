@@ -4,7 +4,8 @@ title: Minecraft 1.21.4 - The Garden Awakens Drop
 ---
 
 Shh! I'm writing this changelog from behind a Pale Oak tree – and I have to be very quiet because the Garden Awakens drop is finally here – and Creakings are spawning in Pale Gardens all across the Overworld!<br>
-The Garden Awakens update introduces the Pale Garden biome, featuring moss carpets, Pale Oak trees, and Eyeblossoms, along with the watchful Creaking mob and its secret to defeating (and spawning) it-the Creaking Heart. Defeating Creakings drops Resin Clumps, which can be crafted into Resin Bricks or used for armor trims.<br>
+The Garden Awakens update introduces the Pale Garden biome, featuring moss carpets, Pale Oak trees, and Eyeblossoms, along with the watchful Creaking mob and its secret to defeating (and spawning) it-the Creaking Heart.<br>
+Defeating Creakings drops Resin Clumps, which can be crafted into Resin Bricks or used for armor trims.<br>
 Was that everything? Oh! And we've also made some bug fixes. Now, let me see if I can back away slowly without this Creaking spotting me…<br>
 
 **Changelog:**<br>
@@ -17,12 +18,14 @@ Was that everything? Oh! And we've also made some bug fixes. Now, let me see if 
 \* Baby Cats and Wolves now get a collar with the color that is a mix between the parents collar color if possible<br>
 \* Added language support for Popoloca<br>
 \* The durations of the effects of Suspicious Stews have been aligned with those in Bedrock Edition<br>
-\* The following blocks that require support now always drop when broken with any tool: Bell, Lantern, Soul Lantern, all Copper Doors, Iron Door, Heavy Weighted Pressure Plate, Light Weighted Pressure Plate, Polished Blackstone Pressure Plate, and Stone Pressure Plate<br>
+\* Blocks that require support now always drop when broken with any tool<br>
 \* The Brewing Stand now drops when broken with any tool<br>
 \* The Ender Chest now drops Obsidian when broken with an incorrect tool, instead of dropping nothing<br>
-\* The criteria for replacing armor slot items have been updated to prioritize items with better base armor or toughness, more enchantments, less damage, or a custom name if the old one lacks one.<br>
-\* The criteria for replacing main hand slot items have been updated to prioritize preferred weapons, items with higher base damage, more enchantments, less damage, or a custom name if the old one lacks one, while ensuring preferred weapons are not replaced by non-preferred items.<br>
-\* Skeleton-like mobs (excluding Wither Skeletons) now prefer Bows, Adult Piglins and Pillagers prefer Crossbows, and Drowned prefer Tridents when picking up weapons.<br>
+\* The criteria for replacing armor slot items have been updated to prioritize items with better base armor or toughness, more enchantments, less damage, or a custom name if the old one lacks one<br>
+\* The criteria for replacing main hand slot items have been updated to prioritize preferred weapons, items with higher base damage, more enchantments, less damage, or a custom name if the old one lacks one, while ensuring preferred weapons are not replaced by non-preferred items<br>
+\* Skeleton-like mobs (excluding Wither Skeletons) now prefer Bows<br> 
+\* Adult Piglins and Pillagers prefer Crossbows<br>
+\* Drowned prefer Tridents when picking up weapons<br>
 \- Removed Herobrine<br>
 
 **Fixed Bugs In 1.21.4:**<br>
