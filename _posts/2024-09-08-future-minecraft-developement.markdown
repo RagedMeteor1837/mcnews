@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The future of Minecraft’s development - Looking ahead at what’s to come
+title: The future of Minecraft’s development
 ---
 
 This year, we celebrated Minecraft’s fifteenth birthday. We’ve spent 15 years mining, crafting, and surviving together; but we’ve also spent the last 15 years evolving the Cave Game of 2009 into the Minecraft you play today. From the addition of jungle biomes in 2012 to the trial chambers in 2024, each free update has expanded our game’s blocky universe a little further. And you, our treasured community, have been with us every step of the way.<br>
@@ -12,9 +12,12 @@ We know that you want new Minecraft content more often, which is why we’re cha
 Sharp-eyed players will have spotted our first trial of these drops all the way back in  [December 2023](https://www.minecraft.net/article/bats-pots-and-competitions), when we made visual changes to bats and turned decorated pots into functional storage containers. Next came  [Armored Paws](https://www.minecraft.net/article/armored-paws)  – which included armadillos, wolf variations, and wolf armor – and released in April 2024. <br>
 And that’s not all our developers will be working on. Minecraft is a game that has been growing since it first released, and alongside these regular content drops, our developers will be focusing on long-term initiatives to ensure we can continue to evolve Minecraft long into the future.<br>
 Right now, we’re also working on bringing a native version of Minecraft to the PlayStation®5 – because Minecraft is better when friends can play together on whichever device they want. Over the coming year, we’ll also be exploring ways to improve Minecraft’s multiplayer experience and make it easier to find and connect with friends.<br>
+
 **A NEW FORMAT FOR MINECRAFT LIVE:**<br>
 We’re changing the format for Minecraft Live, and retiring the mob vote, to bring you something new. Instead of doing one show per year (usually in October) - Minecraft Live will now become a more focussed broadcast, and it will happen twice per year. Each show will be packed with everything you need to know about the latest features we’re working on, what’s coming into testing, and the newest news from across the Minecraft franchise.<br>
 This will let us share the features we’re working on with you more regularly!<br>
+
 **A FUTURE SHAPED TOGETHER!**<br>
 Your feedback and suggestions contribute enormously to what gets added into the game – in fact, you’ve probably influenced Minecraft's development more than you know. Cherry groves, which were added to Minecraft as part of the Trails & Tales Update, were suggested by a community member. Likewise, variations to wolves (including the ability for wolves to have different skins based on biomes) also started life as a handful of community suggestions on our  [official feedback site](https://feedback.minecraft.net/).<br>
+
 Your feedback doesn’t just help inspire what goes into the game, it also helps us iterate on features throughout development, too. When the armadillo first released into testing a lot of our community reacted to the armadillo’s visual design and provided feedback on how they’d like to see it improved. The armadillo you see in the game today (with its eyes firmly on the side of its head, and not on the front!) was shaped by the community, and your feedback.<br>
