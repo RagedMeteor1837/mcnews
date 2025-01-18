@@ -8,7 +8,7 @@ This year marks Minecraft's fifteenth birthday—a milestone that celebrates 15 
 As we look to our sixteenth birthday and beyond, we’re excited to share our plans for Minecraft’s future: delivering new features more regularly, revamping Minecraft Live, and continuing to improve your experience.<br><br>
 
 **MORE REGULAR GAME UPDATES:**<br>
-We’re shifting from one major summer update to multiple free updates throughout the year, starting with changes like functional decorated pots in December 2023 and the Armored Paws update in April 2024.<br>
+We’re shifting from one free summer update to multiple free game drops throughout the year, starting with changes like functional decorated pots in December 2023 and the Armored Paws update in April 2024. These game drops will vary in size and will bring you features to explore more frequently.<br>
 Alongside these updates, we’re working on a native PlayStation®5 version and improvements to multiplayer, making it easier to connect with friends.<br><br>
 
 **A NEW MINECRAFT LIVE:**<br>
