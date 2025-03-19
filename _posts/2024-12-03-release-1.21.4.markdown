@@ -26,7 +26,7 @@ Shh! I'm writing this changelog from behind a Pale Oak tree – and I have to be
 \- Removed Herobrine<br>
 
 **Fixed Bugs In 1.21.4:**<br>
-\* Around 206 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).<br>
+\* Around 206 bugs were fixed in this release. View the [list on Minecraft.net](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4).<br>
 
 **GET THE RELEASE:**<br>
 Cross-platform server jar:<br>
