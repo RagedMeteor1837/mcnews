@@ -17,7 +17,7 @@ Soar the skies with the new Chase the Skies drop, the second Minecraft game drop
 \- Removed Herobrine<br>
 
 **Fixed Bugs In 1.21.6:**<br>
-\* 94 bugs were fixed in this release. View the [full list on Minecraft.net](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-6).<br>
+\* Nearly 100 bugs were fixed in this release. View the [full list on Minecraft.net](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-6).<br>
 
 **GET THE RELEASE:**<br>
 Cross-platform server jar:<br>
