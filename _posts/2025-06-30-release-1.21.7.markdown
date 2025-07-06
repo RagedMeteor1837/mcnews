@@ -10,7 +10,7 @@ A hot-as-lava hotfix. It's Minecraft 1.21.7, bringing updates to your disco, plu
 \* Added music disc "Lava Chicken" by Hyper Potions<br>
 \- Removed Herobrine<br>
 
-**Fixed Bugs In 1.21.6:**<br>
+**Fixed Bugs In 1.21.7:**<br>
 \* We've fixed 16 bugs in this release. View the [full list on Minecraft.net](https://www.minecraft.net/article/minecraft-java-edition-1-21-7).<br>
 
 **GET THE RELEASE:**<br>
