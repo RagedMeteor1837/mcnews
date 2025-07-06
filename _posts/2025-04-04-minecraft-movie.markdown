@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A MINECRAFT MOVIE: OUT NOW!
+title: A MINECRAFT MOVIE - OUT NOW!
 ---
 
 A MINECRAFT MOVIE is officially out in theaters! Embark on an adventure that has it all: a ragtag group of misfits, a mysterious blocky world, angry hordes of piglins, and of course, Steve! How will our heroes fare in the Overworld? Will they ever get back home? And how will they deal with the minor ordeal of a piglin plot to conquer the Overworld? Grab your ticket, snatch the biggest bucket of popcorn you can handle, and find out! <br>
