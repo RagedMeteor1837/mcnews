@@ -10,7 +10,7 @@ A MINECRAFT MOVIE is officially out in theaters! Embark on an adventure that has
 \* [International](http://www.minecraft-movie.net/)<br>
 
 **Free In-Game Content:**<br>
-To celebrate A MINECRAFT MOVIE, we’ve partnered up with Warner Bros. Pictures to create some thrilling (and completely free!) in-game content* so you can adventure beyond the silver screen. Get it all exclusively on Minecraft Bedrock Edition at the Minecraft Marketplace!<br><br>
+To celebrate A MINECRAFT MOVIE, we’ve partnered up with Warner Bros. Pictures to create some thrilling (and completely free!) in-game content* so you can adventure beyond the silver screen. Get it all exclusively on Minecraft Bedrock Edition at the Minecraft Marketplace!<br>
 
 \* [A MINECRAFT MOVIE DLC](https://www.minecraft.net/en-us/marketplace/pdp?id=069b2db5-5164-48ba-afb2-e95d81aa763f)<br>
 \* [A MINECRAFT MOVIE Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=6ac55b36-b539-4f49-a0ee-89cc2c60cfb7)<br>
