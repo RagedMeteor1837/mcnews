@@ -1,3 +1,3 @@
-Minecraft News Website Replacement
+# Minecraft News Website Replacement
 
-Alternative to olauncher.github.io
+This site aims to (in the style of the old [Tumblr blog](https://mcupdate.tumblr.com/)) mirror the official Minecraft Launcher announcements 
