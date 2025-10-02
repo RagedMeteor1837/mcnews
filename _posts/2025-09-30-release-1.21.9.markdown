@@ -3,13 +3,10 @@ layout: post
 title: Minecraft 1.21.9
 ---
 
-Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems.<br>
+Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems.<br><br>
 
-In addition to these shiny new features, this drop comes with a bunch of technical news and fixes. The End now has a flashing skylight, you can populate the world with NPCs called mannequins, and item sprites can now be added into text. Whether scraped or oxidized, this is the start of a new clonking era of creativity!<br><br>
-
-**CHANGELOG:**<br><br>
-
-**New Features:**<br>
+**CHANGELOG:**<br>
+***New Features:***<br>
 \* Added Copper Chest<br>
 \* Added Copper Golem<br>
 \* Added Copper Golem Statue Block<br>
@@ -23,39 +20,35 @@ In addition to these shiny new features, this drop comes with a bunch of technic
 \* Added support for servers to have an in-game Code of Conduct<br>
 \* Added Halychian language support<br>
 
-**Changes:**<br>
+***Changes:***<br>
 \* Performance improvements<br>
 \* The Chain block has been renamed to "Iron Chain"<br>
 \* Monster Spawn Eggs now have a tooltip warning when the difficulty is set to Peaceful<br>
 \* Changes to world loading and the "Spawn Chunks"<br>
-\* A dimension that has any player activity, forceloaded chunks, active portals, or Ender Pearls in flight will be considered "active" and will keep processing chunks and entities<br>
+\* A dimension with player activity, forceloaded chunks, active portals, or Ender Pearls in flight is considered "active" and continues processing chunks and entities<br>
 \* Reworked the debug overlay to be less cluttered and more configurable<br>
 \* Players seen in the game world of the current server are now always shown in the Social Interactions screen even if they are offline<br>
 \* Players now stop flying when switching from Spectator Mode to Creative Mode if they are near the ground<br>
 \* Migrated several server properties into game rules<br>
-\* OpenGL 3.3 is now required to play the game, up from 3.2. This does not change our posted Minimum Requirements<br>
+\* OpenGL 3.3 is now required to play the game, up from 3.2.<br>
 \- Removed Herobrine<br>
 
-**Technical Changes:**<br>
+***Technical Changes:***<br>
 \* Pack versions now have minor versions<br>
 \* The Data Pack version is now 88.0<br>
 \* The Resource Pack version is now 69.0<br>
 \* Some previously hidden debug features have been exposed to players<br>
 
-**Developer's Notes:**<br>
+***Developer's Notes:***<br>
 \* We've fixed 149 bugs in this release.<br>
-\* We don’t expect the OpenGL update to affect many users. The posted minimum has been 4.0 since 2017, and 3.3 is now 15 years old.<br>
-\* Spawn chunks carry memory and performance costs for all players and no longer serve their original purpose of keeping the spawn area ready.<br>
-\* Previously, the F3 screen reduced FPS by gathering data every frame. Now, checking FPS in the Performance profile has no performance impact.<br>
-\* Overriding Core Shaders in Resource Packs is unsupported, as they are part of the game’s internal code and may change at any time. We know they’re used for creative features without alternatives and aim to provide supported ones in the future.<br>
 \* View the [full changelog](https://www.minecraft.net/article/minecraft-java-edition-1-21-9) on Minecraft.net<br><br>
 
 **GET THE RELEASE:**<br>
-Cross-platform server jar:<br>
+***Cross-platform server jar:***<br>
 \* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/11e54c2081420a4d49db3007e66c80a22579ff2a/server.jar)<br>
 
-Report bugs here:<br>
+***Report bugs here:***<br>
 \* [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/summary)<br>
 
-Want to give feedback?<br>
+***Want to give feedback?***<br>
 \* For any feedback and suggestions, head over to the [Feedback Site](https://feedback.minecraft.net).
