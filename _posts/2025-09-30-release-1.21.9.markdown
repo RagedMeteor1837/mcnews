@@ -5,7 +5,9 @@ title: Minecraft 1.21.9
 
 Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems.<br>
 
-**CHANGELOG:**<br>
+In addition to these shiny new features, this drop comes with a bunch of technical news and fixes. The End now has a flashing skylight, you can populate the world with NPCs called mannequins, and item sprites can now be added into text. Whether scraped or oxidized, this is the start of a new clonking era of creativity!<br><br>
+
+**CHANGELOG:**<br><br>
 
 **New Features:**<br>
 \* Added Copper Chest<br>
@@ -42,11 +44,11 @@ Minecraft has entered The Copper Age! Express yourself in every shade of copper 
 
 **Developer's Notes:**<br>
 \* We've fixed 149 bugs in this release.<br>
-\* We do not expect the update to OpenGL version to affect many people, if any at all. Our posted Minimum Requirement has been OpenGL 4.0 since 2017, and OpenGL 3.3 turned 15 years old recently.<br>
-\* Spawn chunks incur a memory and performance cost for all players and have outlived their initial technical purpose of keeping the spawn area ready for players to quickly join into.<br>
-\* Previously, gathering the information every frame to render the F3 screen had a significant performance cost. So opening the screen to check your FPS noticeably dropped the FPS. Now checking your FPS in the Performance profile should not affect game performance.<br>
-\* Although it is possible in Resource Packs, overriding Core Shaders is considered as unsupported and not an intended Resource Pack feature. These shaders exist as part of the internal implementation of the game, and as such, may change at any time as the game's internals evolve. We understand that overriding Core Shaders is used for very cool Resource Pack features, many of which lack supported alternatives. We would like to provide better, supported alternatives in the future.<br>
-\* View the [full changelog](https://www.minecraft.net/article/minecraft-java-edition-1-21-9) on Minecraft.net<br>
+\* We don’t expect the OpenGL update to affect many users. The posted minimum has been 4.0 since 2017, and 3.3 is now 15 years old.<br>
+\* Spawn chunks carry memory and performance costs for all players and no longer serve their original purpose of keeping the spawn area ready.<br>
+\* Previously, the F3 screen reduced FPS by gathering data every frame. Now, checking FPS in the Performance profile has no performance impact.<br>
+\* Overriding Core Shaders in Resource Packs is unsupported, as they are part of the game’s internal code and may change at any time. We know they’re used for creative features without alternatives and aim to provide supported ones in the future.<br>
+\* View the [full changelog](https://www.minecraft.net/article/minecraft-java-edition-1-21-9) on Minecraft.net<br><br>
 
 **GET THE RELEASE:**<br>
 Cross-platform server jar:<br>
