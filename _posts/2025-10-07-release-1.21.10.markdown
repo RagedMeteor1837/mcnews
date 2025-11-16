@@ -11,7 +11,7 @@ And for those of you that were hoping for a Snapshot release today, fret not! We
 \* We've fixed 6 bugs in this release<br>
 \* This release is compatible with 1.21.9 servers<br>
 \* Data Pack and Resource Pack versions are unchanged<br>
-\* View the [full changelog](https://www.minecraft.net/article/minecraft-java-edition-1-21-10) on Minecraft.net<br><br>
+\* View the [full changelog on Minecraft.net](https://www.minecraft.net/article/minecraft-java-edition-1-21-10)<br><br>
 
 **GET THE RELEASE:**<br>
 ***Cross-platform server jar:***<br>
