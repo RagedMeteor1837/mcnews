@@ -29,19 +29,19 @@ Minecraft has entered The Copper Age! Express yourself in every shade of copper 
 \* Reworked the debug overlay to be less cluttered and more configurable<br>
 \* Players seen in the game world of the current server are now always shown in the Social Interactions screen even if they are offline<br>
 \* Players now stop flying when switching from Spectator Mode to Creative Mode if they are near the ground<br>
-\* Migrated several server properties into game rules<br>
-\* OpenGL 3.3 is now required to play the game, up from 3.2.<br>
-\- Removed Herobrine<br>
+\* Removed Herobrine<br>
 
 ***Technical Changes:***<br>
 \* Pack versions now have minor versions<br>
 \* The Data Pack version is now 88.0<br>
 \* The Resource Pack version is now 69.0<br>
 \* Some previously hidden debug features have been exposed to players<br>
+\* Migrated several server properties into game rules<br>
+\* OpenGL 3.3 is now required to play the game, up from 3.2.<br>
 
 ***Developer's Notes:***<br>
 \* We've fixed 149 bugs in this release.<br>
-\* View the [full changelog](https://www.minecraft.net/article/minecraft-java-edition-1-21-9) on Minecraft.net<br><br>
+\* View the [full changelog on Minecraft.net](https://www.minecraft.net/article/minecraft-java-edition-1-21-9)<br><br>
 
 **GET THE RELEASE:**<br>
 ***Cross-platform server jar:***<br>
