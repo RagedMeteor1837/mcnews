@@ -4,7 +4,6 @@ title: Minecraft's New Version Numbering System
 ---
 
 In the beginning, there was version 1.0. Then came 1.1, and 1.2, and 1.3, and 1.4 – you can see where I’m going with this can’t you? Minecraft’s version numbers went up incrementally with each major update until we hit 1.21 – the Tricky Trials update – back in June 2024. A lot happened that year, including our announcement that instead of providing one free update during the year, we instead wanted to release content more frequently, called game drops.<br>
-
 But what did that mean for our version numbering? For a while, it meant we stuck with 1.21. When The Garden Awakens released in December 2024, it was version 1.21.50 on Bedrock Edition, and version 1.21.4 on Java Edition. And then we released Spring to Life. And Chase the Skies. With Mounts of Mayhem coming soon – we felt it was time to update how we version our Minecraft releases to reflect our new game drops strategy.<br><br>
 
 **THE CHANGE WE'RE MAKING:**<br>
