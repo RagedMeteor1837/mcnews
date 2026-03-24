@@ -8,7 +8,7 @@ Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have 
 
 **CHANGELOG:**<br>
 ***New Features:***<br>
-\* Added new baby sounds for Wolf, Cat, Pig, Horsem and Chickens<br>
+\* Added new baby sounds for Wolfs, Cats, Pigs, Horses and Chickens<br>
 \* Added Golden Dandelion<br>
 \* Added adult sound variants for Cats, Pigs, Cows, and Chickens<br>
 \* Added a trumpet instrument for when using a Note Block that is placed on a Copper Block<br>
