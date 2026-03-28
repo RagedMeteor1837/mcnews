@@ -30,7 +30,7 @@ Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have 
 \* If a server's disk space is low, a toast will now be shown to server operators<br>
 \* The game now requires Java 25<br>
 \* The included Java distribution is now the Microsoft build of OpenJDK 25<br>
-\* TThe report generator for item components has been renamed to "Default Components" and now outputs one file per any element that has default components<br>
+\* The report generator for item components has been renamed to "Default Components" and now outputs one file per any element that has default components<br>
 \* The file structure of how worlds and their data are stored has been changed<br>
 \* The internals of how chunk geometry data is stored in GPU memory and how they are rendered has been changed<br>
 \* The game will now save all data once after the world has finished loading/the server has started up<br>
